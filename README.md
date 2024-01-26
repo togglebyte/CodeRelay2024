@@ -55,3 +55,4 @@ All times in UTC
 | Participant                      | Time         |
 | -------------                    | ------------ |
 | https://www.twitch.tv/caleb_dev/ | 09:00 UTC    |
+| https://www.twitch.tv/vvoltbit   | 11:00 UTC    |
