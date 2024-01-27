@@ -5,10 +5,11 @@ This is a code relay.
 ## How does it work?
 
 One participant starts by creating a new project.
-No one knows what the project is supposed to (except the first participant, but
+No one knows what the project is supposed to do (except the first participant, but
 that probably becomes irrelevant soon enough).
 
-The participant works on the project live on Twitch for three hours, the commits the code and raids the next participant.
+The participant works on the project live on stream for three hours, then commits the code and raids the next participant if they are streaming.
+The stream doesn't have to be on Twitch specifically.
 
 As a participant you have three hours to make an assumption of what the code is
 supposed to do and start contributing.
@@ -27,9 +28,9 @@ These are more guidelines than rules, but try to keep with the spirit of the
 relay.
 
 * No watching the other participants
-* Cross platform
+* Keep it cross platform
 * Stream for three hours working on the code then commit and push
-* Raid the next person in line if they are streaming
+* Raid the next person in line **if** they are streaming
 * Absolutely NO comments in the code
 * The code has to compile before handover
 * Zero deps
