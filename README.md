@@ -57,6 +57,5 @@ All times in UTC
 | -------------                    | ------------ |
 | https://www.twitch.tv/caleb_dev/ | *08:00 UTC   |
 | https://www.twitch.tv/vvoltbit   | 11:00 UTC    |
-| https://www.twitch.tv/togglebit/ | 14:00 UTC    |
 
 `* unconfirmed time`
