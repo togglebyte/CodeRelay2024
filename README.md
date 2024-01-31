@@ -46,7 +46,7 @@ All times in UTC
 | Participant                        | Time         |
 | -------------                      | ------------ |
 | https://www.twitch.tv/togglebit/   | 08:00 UTC    |
-| https://www.twitch.tv/marekcounts/ |              |
+| https://www.twitch.tv/marekcounts/ | 11:30 UTC    |
 | https://www.twitch.tv/londospark/  | 17:00 UTC    |
 | https://www.twitch.tv/lyminox      |              |
 | https://www.twitch.tv/modprog/     |              |
