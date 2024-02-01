@@ -27,7 +27,7 @@ changes to others code to a minimum if possible.
 These are more guidelines than rules, but try to keep with the spirit of the
 relay.
 
-* No watching the other participants
+* No watching the other participants that are on before you
 * Keep it cross platform
 * Stream for three hours working on the code then commit and push
 * Raid the next person in line **if** they are streaming
