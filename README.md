@@ -61,3 +61,8 @@ All times in UTC
 
 
 `* unconfirmed time`
+
+## Notes for future relays
+
+* Better slot management via website
+* Better organisation of code handover
