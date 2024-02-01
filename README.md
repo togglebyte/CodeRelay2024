@@ -66,3 +66,4 @@ All times in UTC
 
 * Better slot management via website
 * Better organisation of code handover
+* There should perhaps be some time buffer between handovers
