@@ -2,6 +2,10 @@
 
 This is a code relay.
 
+## Code handover
+
+Clone https://github.com/togglebyte/relay_code and make a PR when you are done
+
 ## How does it work?
 
 One participant starts by creating a new project.
