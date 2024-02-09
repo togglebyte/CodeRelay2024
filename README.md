@@ -33,11 +33,11 @@ relay.
 
 * No watching the other participants that are on before you
 * Keep it cross platform
+* The code has to compile before handover
+* Zero dependencies, only the standard library
 * Stream for three hours working on the code then commit and push
 * Raid the next person in line **if** they are streaming
 * Absolutely NO comments in the code
-* The code has to compile before handover
-* Zero deps
 * Rust lang only (sorry)
 * No build.rs
 
